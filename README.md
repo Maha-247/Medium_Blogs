@@ -1,4 +1,4 @@
-Title: 🚀 Medium Blog Repository – Exploring Tech, One Post at a Time
+Title: 🚀 Medium Blog Repository – Exploring Tech 
 
 Description:
 Welcome to my repository of knowledge! 🌟 This repo is a collection of my Medium blogs, where I dive deep into:
