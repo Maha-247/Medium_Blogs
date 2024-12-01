@@ -1,11 +1,11 @@
 Medium Blog Repository – Exploring Tech 
 
 
-Welcome to my repository of knowledge! 🌟 This repo is a collection of my Medium blogs, where I dive deep into:
+Welcome to my repository of knowledge! This repo is a collection of my Medium blogs, where I dive deep into:
 
-Machine Learning 🤖
-AI Innovations 🧠
-Programming Insights 💻
+Machine Learning 
+AI Innovations 
+Programming Insights 
 
 Each post reflects my journey of learning, creating, and sharing ideas in tech. Stay tuned curious minds!
 
