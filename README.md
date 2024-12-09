@@ -13,6 +13,6 @@ Feel free to check out the blogs and connect with me for discussions or collabor
 
 
 ## Table of Contents
-- [How to Build a Movie Recommendation System](./Blog-1_Title-of-Blog/content.md)
+- [Let’s dive into Django : A Step-by-Step Guide to Building Your First Web Application]([./Blog-1_Title-of-Blog/content.md](https://medium.com/me/stats/post/70803d9a1327))
 - [Another Blog Title](./Blog-2_Another-Blog/content.md)
 
