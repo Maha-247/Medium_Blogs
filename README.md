@@ -14,5 +14,5 @@ Feel free to check out the blogs and connect with me for discussions or collabor
 
 ## Medium Blog's
 - [Let’s dive into Django : A Step-by-Step Guide to Building Your First Web Application]([./Blog-1_Title-of-Blog/content.md](https://medium.com/me/stats/post/70803d9a1327))
-- [Part 2: Exploring Django: Understanding App Structure and MVT Architecture]([./Blog-2_Another-Blog/content.md](https://medium.com/p/9f310b6a5d7c))
+- [Part 2: Exploring Django: Understanding App Structure and MVT Architecture]((https://medium.com/p/9f310b6a5d7c))
 
